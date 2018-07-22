@@ -1,7 +1,9 @@
 # Leetcode
 
+- Array
+  1. 
+  2. 次列表2
 
 
 
-
-[链接到百度](https://www.baidu.com "百度")  
+[存在重复元素](https://github.com/littlefive/Leetcode/blob/master/Array/containsDuplicate.md)  
