@@ -34,3 +34,4 @@ var singleNumber = function(nums) {
     }
 };
 ```
+> 先排序 再去挨个比较
