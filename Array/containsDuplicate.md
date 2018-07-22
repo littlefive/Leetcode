@@ -1,5 +1,6 @@
 # 存在重复元素
-> 输入: [1,2,3,1], 输出: true
+> 输入: [1,2,3,1], 输出: true； 2. 输入:[1,2,3,4], 输出：false
+#### 方法一
 ```javascript
 /**
  * @param {number[]} nums
@@ -19,6 +20,8 @@
      return flag
  };
 ```
+#### 方法二
+> 新开辟了一个obj对象
 ```javascript
 var containsDuplicate = function(nums) {
     var obj={};
@@ -32,5 +35,13 @@ var containsDuplicate = function(nums) {
         
     }
     return flag
+};
+```
+#### 方法三
+> 将数组去重，比较原数组的长度
+``` javascript
+var containsDuplicate = function(nums) {
+    let arr = Array.from(new Set(nums));
+    return nums.length > arr.length
 };
 ```
