@@ -24,7 +24,7 @@ var removeDuplicates = function(nums) {
 };
 ```
 #### 方法二
-> es6的set方法
+> es6的set方法  71.2%
 ``` javascript
 /**
  * @param {number[]} nums
