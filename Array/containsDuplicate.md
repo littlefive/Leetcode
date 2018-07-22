@@ -1,4 +1,4 @@
-```
+```javascript
 /**
  * @param {number[]} nums
  * @return {boolean}
