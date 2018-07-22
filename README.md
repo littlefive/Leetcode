@@ -2,4 +2,4 @@
 
 
 
-[foo]: http://example.com/  "Optional Title Here"
+[id]: <http://example.com/>  "Optional Title Here"
