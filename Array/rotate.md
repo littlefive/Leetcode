@@ -22,3 +22,4 @@ var rotate = function(nums, k) {
 
 ```
 > k > nums.length && (k=k%nums.length); 这一行当时考虑优化的点是，如果传入的k值大于数组长度，可以取余数，这样可以更优的旋转数组
+
