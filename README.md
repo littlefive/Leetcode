@@ -10,7 +10,7 @@
   7. [加1](https://github.com/littlefive/Leetcode/blob/master/Array/plusOne.md)
   8. [把零移动到最后](https://github.com/littlefive/Leetcode/blob/master/Array/moveZeroes.md)
   9. [两数只和](https://github.com/littlefive/Leetcode/blob/master/Array/twoSum.md)
-  10.[有效的数独](https://github.com/littlefive/Leetcode/blob/master/Array/isValidSudoku.md)
+  10. [有效的数独](https://github.com/littlefive/Leetcode/blob/master/Array/isValidSudoku.md)
   
 - String
   1. [反转字符串](https://github.com/littlefive/Leetcode/blob/master/String/reverseString.md)
